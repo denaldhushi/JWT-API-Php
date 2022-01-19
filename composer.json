@@ -1,0 +1,21 @@
+{
+	"name": "user/api",
+	"authors": [
+		{
+			"name": "denald",
+			"email": "denalddh@gmail.com"
+		}
+	],
+	"require": {
+		"adodb/adodb-php": "^5.20"
+	},
+	"autoload": {
+		"classmap": [
+			"db/db.inc.php"
+		],
+		"files": [
+			"auth/jwt.php",
+			"methods/methods.php"
+		]
+	}
+}
