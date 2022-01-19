@@ -6,9 +6,7 @@
 			"email": "denalddh@gmail.com"
 		}
 	],
-	"require": {
-		"adodb/adodb-php": "^5.20"
-	},
+	"require": {},
 	"autoload": {
 		"classmap": [
 			"db/db.inc.php"

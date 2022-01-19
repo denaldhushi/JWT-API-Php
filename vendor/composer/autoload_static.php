@@ -7,7 +7,6 @@ namespace Composer\Autoload;
 class ComposerStaticInit0d9b1a7bfb5a86a71732236f85ea2e74
 {
     public static $files = array (
-        'bf9f5270ae66ac6fa0290b4bf47867b7' => __DIR__ . '/..' . '/adodb/adodb-php/adodb.inc.php',
         'c817c33851beba9981c237db7d4af504' => __DIR__ . '/../..' . '/auth/jwt.php',
         'ccb554e52026558fc1f9056c86428cdc' => __DIR__ . '/../..' . '/methods/methods.php',
     );
